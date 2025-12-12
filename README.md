@@ -80,6 +80,9 @@ This project targets that gap by using **task-specific instructions and examples
 
 ## 6) Scope
 
+<img width="672" height="186" alt="Screenshot 2025-12-13 042804" src="https://github.com/user-attachments/assets/6b978814-0260-48ea-a1a5-3e84192d2f5e" />
+
+
 We perform **8 training configurations**:
 
 - 2 models (**Llama 3 8B**, **Mistral 7B**)
