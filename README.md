@@ -115,7 +115,13 @@ Preprocessing highlights:
 
 ## 8) Methodology (End-to-End)
 
+<img width="1216" height="268" alt="image" src="https://github.com/user-attachments/assets/03dd6b9f-2c33-4ef8-98bd-b69e33acf6ba" />
+
+
 ### 8.1 Prompting Strategy (InstructABSA2-style)
+
+<img width="525" height="381" alt="image" src="https://github.com/user-attachments/assets/c54ea7e2-2744-4ef8-9f39-c749806d82da" />
+
 We embed a clear **definition** plus **few-shot examples** into an Alpaca-style template.
 
 - **ATE prompt**: “Extract aspect terms… output `noaspectterm` if none”
